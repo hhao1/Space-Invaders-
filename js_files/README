@@ -1,0 +1,16 @@
+This is a Space Invaders Game.
+
+The player can use left and right to control the game.
+When the allien has been cleaned, the player win.
+if the allien get to the bottom, or you has been hit by the bullet, player lose.
+
+All the functions listed in the requirments has been realized. 
+
+I have only modified main.js. other files are from the professor. I have not do any modifications on them.
+
+During the assignment I have stucked on the direction function. I got help from classmate Harry Cui. But all the coding and rest of the work was by myself.
+
+
+
+
+
